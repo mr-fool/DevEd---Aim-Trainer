@@ -1,6 +1,6 @@
 # Aim Trainer
 
-This is a circle clicker game with a leaderboard to showcase your high score. This application primarily uses **React.js** as our framework for building the user interface and **node.js** for the server.
+Aim Trainer is an engaging circle clicker game designed to enhance your reflexes. This application primarily uses **React.js** as our framework for building the user interface and **node.js** for the server.
 
 ## Project Demo
 
