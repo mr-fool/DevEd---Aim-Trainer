@@ -14,6 +14,13 @@ Aim trainer was developed to test and train one's ability to aim properly. This 
 
 **Technologies Used:** React.js, node.js, express.js
 
+## Design Phase
+
+During the design phase of our project, we created a detailed design diagram using Figma. 
+![3](https://github.com/mr-fool/DevEd---Aim-Trainer/assets/6241984/8559b954-7f11-4cbc-ad21-3a510c45e9fd)
+![2](https://github.com/mr-fool/DevEd---Aim-Trainer/assets/6241984/ea97d445-17dd-4cb9-a3d5-b50926ad4b06)
+![1](https://github.com/mr-fool/DevEd---Aim-Trainer/assets/6241984/1cf7a450-6980-40c0-b78d-4a091be2eb6e)
+
 ## How to Run
 
 - Clone the repository
